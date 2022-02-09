@@ -1,0 +1,23 @@
+body{
+    background-color: cadetblue;
+}
+
+#Score{
+    font-size: 50;
+    margin-left: 50px;
+    float: left;
+}
+
+#Timer{
+    font-size: 50;
+    float: right;
+    margin-right: 100px;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+
+
